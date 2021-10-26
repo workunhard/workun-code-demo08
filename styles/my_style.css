@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,500;1,300&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(45, 45, 45);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
